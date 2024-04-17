@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "i+bEd#b@kRr-p+fHq#a!pEm=": {
+        "root_password": "i+bEfhgb@kRr-p+fHq#a!pEm=",
+        "phone": "+46762255058",
+        "email": "cklgwasdss@1secmail.net",
+        "card": "0000000000000000",
+        "cvv": "000",
+        "valid_date": "10/2029",
+        "cardholder": "NAME SURNAME",
+        "account_name": "Cklgvb@wmilss@1secmail",
+        "verify_email_code": "021404",
+        "first_name": "William",
+        "last_name": "Elmer",
+        "full_name": "William Elmer",
+        "city": "North Brian",
+        "postal_code": "86895",
+        "country": "United States",
+        "full_address": "2202 Mooney Center, USA"
+      }
+    }
+  ],
+  "used_phones_count": {
+    "+442071234567": 1
+  },
+  "used_cards_count": {
+    "4569232290106": 1
+  },
+  "used_emails_count": {
+    "alex.smith@example.com": 1
+  }
+}

@@ -1,0 +1,12 @@
+2024-04-17 03:27:40 - CRITICAL - aws_logger.py - 
+Error creating AWS instance: 'PrivateConfigs' object has no attribute 'CARD_NUMBER'
+
+2024-04-17 04:18:38 - CRITICAL - aws_logger.py - 
+Error creating AWS instance: 'PrivateConfigs' object has no attribute 'CARD_NUMBER'
+
+2024-04-17 04:19:53 - CRITICAL - aws_logger.py - 
+Error creating AWS instance: Error decoding JSON data from '/home/runner/TestBot/data/aws_data.json'. Check the file format.
+
+2024-04-17 04:23:20 - CRITICAL - aws_logger.py - 
+Error creating AWS instance: Binary Location Must be a String
+
